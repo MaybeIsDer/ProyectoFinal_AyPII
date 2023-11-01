@@ -1,8 +1,10 @@
 # ProyectoFinal_AyPII
-### #0969DA Repositorio con el proyecto final
+### Repositorio con el proyecto final
 Suban aca las actualizaciones (_Si algo, avisen por Whatsapp_)
 Con Cariño:
-# Grupo 5 
+```diff
+- # Grupo 5 
+```
 ### Dianita
 ### Angelita
 ### ion
